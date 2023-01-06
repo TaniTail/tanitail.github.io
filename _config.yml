@@ -104,29 +104,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "TAN"
+  avatar           : "/assets/images/home_rabbit.png" # path of avatar image, e.g. 
+  bio              : "언제나 배우고 있습니다."
+  location         : "Busan, Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "tanitanitan44@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://tanitail.github.io/"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: #"Facebook"
+      icon: #"fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      # url: "https://github.com/TaniTail"
+    - label: #"Instagram"
+      icon: #"fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
