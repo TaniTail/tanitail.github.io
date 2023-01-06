@@ -107,15 +107,15 @@ author:
   name             : "TAN"
   avatar           : "/assets/images/home_rabbit.png" # path of avatar image, e.g. 
   bio              : "언제나 배우고 있습니다."
-  location         : "Busan, Korea"
+  location         : "Busan, Republic of Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "tanitanitan44@gmail.com"
+      url: "tanitanitan44@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://tanitail.github.io/"
+      url: "https://tanitail.github.io/"
     - label: #"Twitter"
       icon: #"fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/TaniTail"
+      url: "https://github.com/TaniTail"
     - label: #"Instagram"
       icon: #"fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,16 +140,16 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/TaniTail"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: mailto:tanitanitan44@gmail.com
 
 
 # Reading Files
