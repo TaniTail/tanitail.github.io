@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "TAN"
   avatar           : "/assets/images/home_rabbit.png" # path of avatar image, e.g. 
-  bio              : "언제나 배우고 있습니다."
+  bio              : "언제나 배우고 있습니다.\n파이썬, 머신러닝, 인공지능, 데이터 분석, 수학, 물리학, Etc. "
   location         : "Busan, Korea"
   email            : 
   links:
@@ -115,7 +115,7 @@ author:
       url: "tanitanitan44@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://tanitail.github.io/"
+      # url: "https://tanitail.github.io/"
     - label: #"Twitter"
       icon: #"fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
