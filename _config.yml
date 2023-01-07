@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "TAN"
   avatar           : "/assets/images/home_rabbit.png" # path of avatar image, e.g. 
-  bio              : "언제나 배우고 있습니다.\n파이썬, 머신러닝, 인공지능, 데이터 분석, 수학, 물리학, Etc. "
+  bio              : "언제나 배우고 있습니다." # 파이썬, 머신러닝, 인공지능, 데이터 분석, 수학, 물리학, Etc.
   location         : "Busan, Korea"
   email            : 
   links:
@@ -258,16 +258,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
